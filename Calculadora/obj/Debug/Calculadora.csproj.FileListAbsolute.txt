@@ -1,0 +1,10 @@
+C:\Users\Katia Regina\source\repos\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\Katia Regina\source\repos\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\Katia Regina\source\repos\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\Katia Regina\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+C:\Users\Katia Regina\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.calculadora.resources
+C:\Users\Katia Regina\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\Katia Regina\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\Katia Regina\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Katia Regina\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\Katia Regina\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
